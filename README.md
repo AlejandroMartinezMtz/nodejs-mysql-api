@@ -6,7 +6,7 @@ Método get
 
 Método path
 
-![rutas](imagenes/imagen2.PNG)
+![rutas](imagenes/imagen3.PNG)
 
 Despligue en Railway
 
