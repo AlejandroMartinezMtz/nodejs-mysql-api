@@ -1,3 +1,3 @@
 # nodejs-mysql-api
 
-![rutas](imagenes/imagen1.jpg)
+![rutas](imagenes/imagen1.PNG)
